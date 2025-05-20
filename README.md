@@ -1,1 +1,27 @@
 # App_backup
+
+- 阅读
+  - [gedoor / legado](https://github.com/gedoor/legado)
+  - [Telegram](https://t.me/legado_channels)
+  - [「阅读」APP 源](https://legado.aoaostar.com/)
+  - [MultiTTS - Telegram](https://t.me/MultiTTS_channel)
+- 漫画
+  - Tachiyomi
+    - [Tachiyomi - APP](https://tachiyomi.en.uptodown.com/android/download)
+    - [keiyoushi - Extensions](https://keiyoushi.github.io/extensions/)
+    - [stevenyomi / copymanga](https://github.com/stevenyomi/copymanga/releases)
+      - 通用：https://raw.githubusercontent.com/stevenyomi/copymanga/repo/index.min.json
+      - 内地：https://stevenyomi.github.io/copymanga/index.min.json
+  - 异次元
+    - [APP](https://yiciyuan.lanzoui.com/b00ej0kba)
+    - 异次元公众号
+- 视频
+  - 手机App
+    - [FongMi / TV](https://github.com/FongMi/Release)
+  - 电视APP
+    - [o0HalfLife0o / TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC/releases)
+    - [TVBoxOSC - Telegram](https://t.me/TVBoxOSC)
+  - 源
+    - [高天流云仓库](https://github.com/gaotianliuyun/gao)
+    - [http://www.饭太硬.top/tv/](http://www.饭太硬.top/tv/)
+    - [https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json](https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json)
