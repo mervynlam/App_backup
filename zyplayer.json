@@ -125,5 +125,82 @@
     "isActive": true,
     "status": "可用",
     "reverseOrder": false
+  },
+  {
+    "id": 13,
+    "key": "apibdzy",
+    "name": "百度云资源",
+    "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 14,
+    "key": "wolongzyw",
+    "name": "卧龙资源站综合资源",
+    "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 15,
+    "key": "xinlangapi",
+    "name": "新浪资源",
+    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 16,
+    "key": "lziapi",
+    "name": "量子资源",
+    "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 17,
+    "key": "sdzyapi",
+    "name": "闪电资源网",
+    "api": "https://sdzyapi.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 18,
+    "key": "yparse",
+    "name": "步步高资源",
+    "api": "https://api.yparse.com/api/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 19,
+    "key": "guangsuapi",
+    "name": "光速资源",
+    "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
   }
 ]
