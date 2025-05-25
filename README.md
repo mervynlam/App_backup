@@ -16,12 +16,18 @@
     - [APP](https://yiciyuan.lanzoui.com/b00ej0kba)
     - 异次元公众号
 - 视频
-  - 手机App
+  - 手机 App
     - [FongMi / TV](https://github.com/FongMi/Release)
-  - 电视APP
+  - 电视 APP
     - [o0HalfLife0o / TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC/releases)
     - [TVBoxOSC - Telegram](https://t.me/TVBoxOSC)
   - 源
     - [高天流云仓库](https://github.com/gaotianliuyun/gao)
     - [http://www.饭太硬.top/tv/](http://www.饭太硬.top/tv/)
     - [https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json](https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json)
+  - 电脑：
+    - [ZY Player](https://zyplayer.fun/)
+    - [GITHUB](https://github.com/Hiram-Wong/ZyPlayer)
+    - 源：
+      - ~~http://xiaoguozitv.cn/catys/zyplay.json~~
+      - ~~https://raw.iqiq.io/Hunlongyu/ZY-Player-Resources/main/Sites/20220713.json~~
