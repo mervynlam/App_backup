@@ -31,3 +31,5 @@
     - 源：
       - ~~http://xiaoguozitv.cn/catys/zyplay.json~~
       - ~~https://raw.iqiq.io/Hunlongyu/ZY-Player-Resources/main/Sites/20220713.json~~
+- 一些参考
+  - [YuanHsing / freed](https://github.com/YuanHsing/freed)
