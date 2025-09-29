@@ -25,11 +25,16 @@
     - [高天流云仓库](https://github.com/gaotianliuyun/gao)
     - [http://www.饭太硬.top/tv/](http://www.饭太硬.top/tv/)
     - [https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json](https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json)
+    - [https://wget.la/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json](https://wget.la/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json)
+    - [https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json](https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json)
   - 电脑：
-    - [ZY Player](https://zyplayer.fun/)
+    - [zyfun](https://zy.catni.cn/)
     - [GITHUB](https://github.com/Hiram-Wong/ZyPlayer)
+    - ~~[ZY Player](https://zyplayer.fun/)~~
     - 源：
+      - [lee vi - dzhipy](https://gitlab.com/duomv/dzhipy/-/tree/main?ref_type=heads)
       - ~~http://xiaoguozitv.cn/catys/zyplay.json~~
       - ~~https://raw.iqiq.io/Hunlongyu/ZY-Player-Resources/main/Sites/20220713.json~~
 - 一些参考
   - [YuanHsing / freed](https://github.com/YuanHsing/freed)
+  - [阿虚同学 - TVBOX](https://flowus.cn/share/aac6bf05-ae48-411f-a67c-91977658e9af?code=CZ3ECT)
