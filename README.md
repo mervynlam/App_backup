@@ -24,7 +24,7 @@
   - 源
     - [高天流云仓库](https://github.com/gaotianliuyun/gao)
     - [http://www.饭太硬.top/tv/](http://www.饭太硬.top/tv/)
-    - [https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json](https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json)
+    - [https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json](https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json)⭐
     - [https://wget.la/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json](https://wget.la/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json)
     - [https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json](https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json)
   - 电脑：
