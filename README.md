@@ -5,6 +5,7 @@
   - [Telegram](https://t.me/legado_channels)
   - [「阅读」APP 源](https://legado.aoaostar.com/)
   - [MultiTTS - Telegram](https://t.me/MultiTTS_channel)
+  - [原仓库](https://www.yckceo.com/yuedu)
 - 漫画
   - Tachiyomi
     - [Tachiyomi - APP](https://tachiyomi.en.uptodown.com/android/download)
@@ -32,7 +33,12 @@
     - [GITHUB](https://github.com/Hiram-Wong/ZyPlayer)
     - ~~[ZY Player](https://zyplayer.fun/)~~
     - 源：
-      - [lee vi - dzhipy](https://gitlab.com/duomv/dzhipy/-/tree/main?ref_type=heads)
+      - [zyfun-source](https://github.com/kongjie0325-art/zyfun-sources)
+      - [vbskycn/iptv 直播源](https://github.com/vbskycn/iptv)
+        - [https://izbds.com/](https://izbds.com/)
+        - [https://live.zbds.top/](https://live.zbds.top/)
+      - [vod-source-feed](https://github.com/bhsherry/vod-source-feed)
+      - ~~[lee vi - dzhipy](https://gitlab.com/duomv/dzhipy/-/tree/main?ref_type=heads)~~
       - ~~http://xiaoguozitv.cn/catys/zyplay.json~~
       - ~~https://raw.iqiq.io/Hunlongyu/ZY-Player-Resources/main/Sites/20220713.json~~
 - 一些参考
